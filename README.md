@@ -1,5 +1,10 @@
 # lab1-
 this contains lab1 assignment population growth
+
+
+
+
+
 #include <cs50.h>
 #include <stdio.h>
 
